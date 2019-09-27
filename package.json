@@ -1,0 +1,26 @@
+{
+  "name": "temperatureiot",
+  "version": "1.0.0",
+  "description": "Quan trac nhiet do, do am ...IoT",
+  "main": "index.js",
+  "dependencies": {
+    "mssql": "^5.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nqb19772010/BirdHouseIoT.git"
+  },
+  "keywords": [
+    "bird"
+  ],
+  "author": "BaoNguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nqb19772010/BirdHouseIoT/issues"
+  },
+  "homepage": "https://github.com/nqb19772010/BirdHouseIoT#readme"
+}
